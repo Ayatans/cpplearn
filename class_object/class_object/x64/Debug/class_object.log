@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Code\cpppj\class_object\class_object\main.cpp(128,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Code\cpppj\class_object\class_object\main.cpp(129,10): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Code\cpppj\class_object\class_object\main.cpp(130,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Code\cpppj\class_object\class_object\main.cpp(398,19): warning C4269: “p2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  class_object.vcxproj -> E:\Code\cpppj\class_object\x64\Debug\class_object.exe
